@@ -1,2 +1,71 @@
-# 466f012c-venture-capital-pe-test-scaf
-Stop context-switching away from your editor to look things up. Start instant insights without breaking your focus.  Compatible with Remote SSH, WSL, Dev Containers, and GitHub Codespaces. Integrates seamlessly into your VS Code workflow — keyboard shortcuts included.  ## What's Included  - Venture Capital &amp; Pe Test Scaffolder And Coverage Reporter
+# Venture Capital & PE Test Scaffolder and Coverage Reporter VS Code Extension
+
+> A specialized VS Code extension for venture capital and private equity professionals who need to rapidly scaffold test frameworks and generate coverage reports for their investment models, due diligence scripts, and portfolio analytics. This tool integrates seamlessly with Python, R, and TypeScript projects, allowing users to create unit tests, integration tests, and mock data structures with a single command. The scaffolder auto-detects common VC/PE-specific patterns such as valuation models, c
+
+## Features
+
+- Core functionality
+
+## Installation
+
+### From VS Code Marketplace
+1. Open VS Code
+2. Press `Ctrl+P` (or `Cmd+P` on Mac)
+3. Type `ext install digitalforge.466f012c`
+4. Press Enter
+
+### From VSIX file
+1. Download the `.vsix` file
+2. In VS Code: `Extensions > ··· > Install from VSIX`
+3. Select the downloaded file
+
+## Usage
+
+Press `Ctrl+Shift+P` and search for `Venture Capital & PE Test Scaffolder and Coverage Reporter VS Code Extension` to see all available commands.
+
+**Keyboard shortcut:** `Ctrl+Shift+Alt+A` (or `Cmd+Shift+Alt+A` on Mac)
+
+## Settings
+
+| Setting | Default | Description |
+|---------|---------|-------------|
+| `466f012c.enabled` | `true` | Enable/disable the extension |
+| `466f012c.autoRun` | `false` | Auto-run on file open |
+| `466f012c.logLevel` | `"info"` | Log verbosity |
+
+## Requirements
+
+- VS Code 1.74.0 or higher
+
+## Contributing
+
+Found a bug? [Open an issue](https://github.com/digitalforge/466f012c/issues).
+
+## License
+
+MIT — see [LICENSE](LICENSE) for details.
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core language support | Yes | Yes |
+| Basic snippets | Yes | Yes |
+| Standard themes | Yes | Yes |
+| AI-powered completions | - | Yes |
+| Advanced refactoring | - | Yes |
+| Team sync | - | Yes |
+| Custom keybindings | - | Yes |
+| Priority bug fixes | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/6oUcN5cLle2M6xy7jCcZn1X)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/6oUcN5cLle2M6xy7jCcZn1X)
+
